@@ -17,8 +17,8 @@
  - 👩‍💻 any upcoming game jam
  
 ### 💬 How to reach me . . .
- - 🗨 <a href="https://matrix.to/#/@marmadilemanteater:matrix.org">`marmadilemanteater:matrix.org`</a>
- - 🐘 <a href="https://mastodon.gamedev.place/@emma">`emma@mastodon.gamedev.place`</a>
+ - 🗨 <a href="https://matrix.to/#/@marmadilemanteater:matrix.org">`@marmadilemanteater:matrix.org`</a>
+ - 🐘 <a href="https://mastodon.gamedev.place/@emma">`@emma@mastodon.gamedev.place`</a>
  - 📫 <a href="mailto:MarmadileManteater@proton.me">`marmadilemanteater@proton.me`</a>
 
 <!---
