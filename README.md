@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Emma
 
-<img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/overview.svg#gh-light-mode-only" /> <img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+<!-- <img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/overview.svg#gh-light-mode-only" /> <img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/languages.svg#gh-light-mode-only" /> -->
 
 ### 👁 I'm interested in . . .
  - 🕹 game development
