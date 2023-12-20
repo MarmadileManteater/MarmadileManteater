@@ -1,26 +1,14 @@
 ## 👋 Hi, I’m Emma~!
 
-<!-- <img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/overview.svg#gh-light-mode-only" /> <img src="https://raw.githubusercontent.com/MarmadileManteater/github-stats/master/generated/languages.svg#gh-light-mode-only" /> -->
+I am an aspiring 🎮gamedev. 
 
-### 👁 I'm interested in . . .
- - 🕹 game development
- - 🔄 continuous integration
- - 🧪 e2e testing
- - 🕸 static site generation
- - ⚡ server side rendering
+<img src="https://marmadilemanteater.dev/media/cdn.masto.host/gamemaking/media_attachments/files/110/679/872/942/130/360/original/61d5f12cc9f816e0.png.webp" /> <img src="https://marmadilemanteater.dev/media/cdn.masto.host/gamemaking/media_attachments/files/110/679/875/781/202/230/original/89e8710dc4e2eb53.png.webp" height="197" /> <img src="https://marmadilemanteater.dev/media/cdn.masto.host/gamemaking/media_attachments/files/111/279/857/389/408/121/original/b74df48abdea1177.png.webp" height="197" />
 
-### 🌱 I'm currently learning . . .
- - 🤝 to be more proactive
+I also 🔨make apps for 🎉fun and for 💵profit.
 
-### 💞 I’m looking to collaborate on . . .
- - 👩‍💻 any upcoming game jam
- 
-### 💬 How to reach me . . .
- - 🗨 <a href="https://matrix.to/#/@marmadilemanteater:matrix.org">`@marmadilemanteater:matrix.org`</a> <!-- - 🐘 <a href="https://mastodon.gamedev.place/@emma">`@emma@mastodon.gamedev.place`</a> -->
- - 📫 <a href="mailto:MarmadileManteater@proton.me">`marmadilemanteater@proton.me`</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarmadileManteater&exclude_repo=MarmadileManteater.github.io,QwikStaticSite,AstroVueStaticSite&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" />
 
-<!---
-MarmadileManteater/MarmadileManteater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📞 Contact me
+- 💬 discord: [`@marmadilemanteater`](https://discord.com/invite/unuVW8Bt)
+- 🗨️ matrix: [`@marmadilemanteater:matrix.org`](https://matrix.to/#/@marmadilemanteater:matrix.org)
+- 📬 email: [`marmadilemanteater@proton.me`](mailto:marmadilemanteater@proton.me)
