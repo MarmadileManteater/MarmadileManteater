@@ -9,6 +9,5 @@ I also 🔨make apps for 🎉fun and for 💵profit.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarmadileManteater&exclude_repo=MarmadileManteater.github.io,QwikStaticSite,AstroVueStaticSite&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only" />
 
 ### 📞 Contact me
-- 💬 discord: [`@marmadilemanteater`](https://discord.com/invite/unuVW8Bt)
 - 🗨️ [`@marmadilemanteater:matrix.org`](https://matrix.to/#/@marmadilemanteater:matrix.org)
 - 📬 [`marmadilemanteater@proton.me`](mailto:marmadilemanteater@proton.me)
