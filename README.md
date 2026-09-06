@@ -3,7 +3,7 @@
 i am an amateur game dev, comedy writer, and human being
 
 <img src="https://github.com/user-attachments/assets/bb0120b0-0c7c-442a-a9ac-ce8c31828196" /> 
-<img src="https://github.com/user-attachments/assets/d9cd920d-f140-4fb5-99ea-c6330caf7e9d" height="197" />
+<img height="197" alt="646843256-7f8bbb54-dc27-4a69-8680-a955db65a35f" src="https://github.com/user-attachments/assets/ead5a5d0-e5b5-4e65-bc58-47f6c4eb2942" />
 <img src="https://github.com/user-attachments/assets/2b2cb229-0278-461f-b413-9d86569c89c7" height="197" />
 
 
